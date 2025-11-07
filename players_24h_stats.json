@@ -1,0 +1,158 @@
+{
+  "Ratings Reload 2": [
+    {
+      "player": "Khadija Shaw",
+      "stats": {
+        "trend_value": "122K",
+        "average_buy_now": "126K",
+        "highest": "133K",
+        "lowest": "110K",
+        "avg_below_trend": "117K",
+        "avg_above_trend": "126K",
+        "profit_margin": "3K",
+        "profit_margin_pct": 2.18,
+        "trend_pct": 10.81
+      }
+    },
+    {
+      "player": "Kenan Y\u0131ld\u0131z",
+      "stats": {
+        "trend_value": "306K",
+        "average_buy_now": "312K",
+        "highest": "327K",
+        "lowest": "286K",
+        "avg_below_trend": "301K",
+        "avg_above_trend": "312K",
+        "profit_margin": "-3975",
+        "profit_margin_pct": -1.26,
+        "trend_pct": 5.48
+      }
+    },
+    {
+      "player": "Dominik Szoboszlai",
+      "stats": {
+        "trend_value": "126K",
+        "average_buy_now": "132K",
+        "highest": "146K",
+        "lowest": "115K",
+        "avg_below_trend": "121K",
+        "avg_above_trend": "132K",
+        "profit_margin": "5K",
+        "profit_margin_pct": 3.96,
+        "trend_pct": -17.81
+      }
+    },
+    {
+      "player": "Lionel Messi",
+      "stats": {
+        "trend_value": "1M",
+        "average_buy_now": "1M",
+        "highest": "1M",
+        "lowest": "1M",
+        "avg_below_trend": "1M",
+        "avg_above_trend": "1M",
+        "profit_margin": "-12393",
+        "profit_margin_pct": -0.87,
+        "trend_pct": -2.53
+      }
+    },
+    {
+      "player": "Kevin De Bruyne",
+      "stats": {
+        "trend_value": "209K",
+        "average_buy_now": "217K",
+        "highest": "235K",
+        "lowest": "189K",
+        "avg_below_trend": "203K",
+        "avg_above_trend": "217K",
+        "profit_margin": "4K",
+        "profit_margin_pct": 1.8,
+        "trend_pct": -10.55
+      }
+    },
+    {
+      "player": "Denzel Dumfries",
+      "stats": {
+        "trend_value": "70K",
+        "average_buy_now": "71K",
+        "highest": "75K",
+        "lowest": "63K",
+        "avg_below_trend": "68K",
+        "avg_above_trend": "71K",
+        "profit_margin": "210",
+        "profit_margin_pct": 0.3,
+        "trend_pct": -8.45
+      }
+    },
+    {
+      "player": "D\u00e9sir\u00e9 Dou\u00e9",
+      "stats": {
+        "trend_value": "449K",
+        "average_buy_now": "462K",
+        "highest": "490K",
+        "lowest": "415K",
+        "avg_below_trend": "435K",
+        "avg_above_trend": "462K",
+        "profit_margin": "6K",
+        "profit_margin_pct": 1.23,
+        "trend_pct": -6.52
+      }
+    },
+    {
+      "player": "Alejandro Grimaldo Garc\u00eda",
+      "stats": {
+        "trend_value": "48K",
+        "average_buy_now": "50K",
+        "highest": "57K",
+        "lowest": "35K",
+        "avg_below_trend": "45K",
+        "avg_above_trend": "50K",
+        "profit_margin": "3K",
+        "profit_margin_pct": 6.47,
+        "trend_pct": 26.67
+      }
+    },
+    {
+      "player": "Leny Yoro",
+      "stats": {
+        "trend_value": "86K",
+        "average_buy_now": "89K",
+        "highest": "95K",
+        "lowest": "77K",
+        "avg_below_trend": "84K",
+        "avg_above_trend": "89K",
+        "profit_margin": "667",
+        "profit_margin_pct": 0.75,
+        "trend_pct": -0.56
+      }
+    },
+    {
+      "player": "Lauren James",
+      "stats": {
+        "trend_value": "577K",
+        "average_buy_now": "1M",
+        "highest": "1M",
+        "lowest": "516K",
+        "avg_below_trend": "541K",
+        "avg_above_trend": "1M",
+        "profit_margin": "437K",
+        "profit_margin_pct": 76.87,
+        "trend_pct": -3.55
+      }
+    },
+    {
+      "player": "Zion Suzuki",
+      "stats": {
+        "trend_value": "13K",
+        "average_buy_now": "13K",
+        "highest": "15K",
+        "lowest": "10K",
+        "avg_below_trend": "12K",
+        "avg_above_trend": "13K",
+        "profit_margin": "1K",
+        "profit_margin_pct": 9.08,
+        "trend_pct": -14.0
+      }
+    }
+  ]
+}

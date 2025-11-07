@@ -1,0 +1,1804 @@
+{
+  "Ultimate Scream": [
+    {
+      "player": "Vin\u00edcius Jos\u00e9 de Oliveira J\u00fanior",
+      "stats": {
+        "trend_value": "4M",
+        "average_buy_now": "4M",
+        "highest": "4M",
+        "lowest": "4M",
+        "avg_below_trend": "4M",
+        "avg_above_trend": "4M",
+        "profit_margin": "35K",
+        "profit_margin_pct": 0.79,
+        "trend_pct": -6.39
+      }
+    },
+    {
+      "player": "Rafael da Concei\u00e7\u00e3o Le\u00e3o",
+      "stats": {
+        "trend_value": "1M",
+        "average_buy_now": "1M",
+        "highest": "2M",
+        "lowest": "1M",
+        "avg_below_trend": "1M",
+        "avg_above_trend": "1M",
+        "profit_margin": "-13123",
+        "profit_margin_pct": -0.88,
+        "trend_pct": 5.58
+      }
+    },
+    {
+      "player": "Juan David Cabal",
+      "stats": {
+        "trend_value": "54K",
+        "average_buy_now": "57K",
+        "highest": "62K",
+        "lowest": "49K",
+        "avg_below_trend": "52K",
+        "avg_above_trend": "57K",
+        "profit_margin": "2K",
+        "profit_margin_pct": 2.87,
+        "trend_pct": 0.93
+      }
+    },
+    {
+      "player": "D\u00e9bora C. de Oliveira",
+      "stats": {
+        "trend_value": "638K",
+        "average_buy_now": "656K",
+        "highest": "677K",
+        "lowest": "580K",
+        "avg_below_trend": "617K",
+        "avg_above_trend": "656K",
+        "profit_margin": "8K",
+        "profit_margin_pct": 1.31,
+        "trend_pct": 0.0
+      }
+    },
+    {
+      "player": "Alejandro Berenguer Remiro",
+      "stats": {
+        "trend_value": "16K",
+        "average_buy_now": "17K",
+        "highest": "19K",
+        "lowest": "12K",
+        "avg_below_trend": "15K",
+        "avg_above_trend": "17K",
+        "profit_margin": "1K",
+        "profit_margin_pct": 7.83,
+        "trend_pct": 3.17
+      }
+    },
+    {
+      "player": "Madison Haley",
+      "stats": {
+        "trend_value": "13K",
+        "average_buy_now": "14K",
+        "highest": "15K",
+        "lowest": "10K",
+        "avg_below_trend": "13K",
+        "avg_above_trend": "14K",
+        "profit_margin": "815",
+        "profit_margin_pct": 6.21,
+        "trend_pct": 0.0
+      }
+    },
+    {
+      "player": "Sakina Karchaoui",
+      "stats": {
+        "trend_value": "481K",
+        "average_buy_now": "489K",
+        "highest": "500K",
+        "lowest": "450K",
+        "avg_below_trend": "473K",
+        "avg_above_trend": "489K",
+        "profit_margin": "-6759",
+        "profit_margin_pct": -1.36,
+        "trend_pct": 3.23
+      }
+    },
+    {
+      "player": "Joshua Kimmich",
+      "stats": {
+        "trend_value": "204K",
+        "average_buy_now": "209K",
+        "highest": "219K",
+        "lowest": "180K",
+        "avg_below_trend": "197K",
+        "avg_above_trend": "209K",
+        "profit_margin": "3K",
+        "profit_margin_pct": 1.23,
+        "trend_pct": 4.39
+      }
+    },
+    {
+      "player": "Bryan Mbeumo",
+      "stats": {
+        "trend_value": "199K",
+        "average_buy_now": "203K",
+        "highest": "215K",
+        "lowest": "184K",
+        "avg_below_trend": "195K",
+        "avg_above_trend": "203K",
+        "profit_margin": "-1346",
+        "profit_margin_pct": -0.66,
+        "trend_pct": 6.09
+      }
+    },
+    {
+      "player": "Thomas M\u00fcller",
+      "stats": {
+        "trend_value": "22K",
+        "average_buy_now": "22K",
+        "highest": "25K",
+        "lowest": "16K",
+        "avg_below_trend": "21K",
+        "avg_above_trend": "22K",
+        "profit_margin": "552",
+        "profit_margin_pct": 2.54,
+        "trend_pct": 1.12
+      }
+    },
+    {
+      "player": "Nathan Tella",
+      "stats": {
+        "trend_value": "23K",
+        "average_buy_now": "24K",
+        "highest": "26K",
+        "lowest": "20K",
+        "avg_below_trend": "22K",
+        "avg_above_trend": "24K",
+        "profit_margin": "1K",
+        "profit_margin_pct": 4.72,
+        "trend_pct": -8.0
+      }
+    }
+  ],
+  "Ultimate Scream Heroes": [
+    {
+      "player": "Jorge Campos",
+      "stats": {
+        "trend_value": "24K",
+        "average_buy_now": "25K",
+        "highest": "26K",
+        "lowest": "20K",
+        "avg_below_trend": "24K",
+        "avg_above_trend": "25K",
+        "profit_margin": "-230",
+        "profit_margin_pct": -0.93,
+        "trend_pct": -4.08
+      }
+    },
+    {
+      "player": "Peter Crouch",
+      "stats": {
+        "trend_value": "94K",
+        "average_buy_now": "99K",
+        "highest": "130K",
+        "lowest": "52K",
+        "avg_below_trend": "91K",
+        "avg_above_trend": "99K",
+        "profit_margin": "4K",
+        "profit_margin_pct": 4.6,
+        "trend_pct": 17.02
+      }
+    },
+    {
+      "player": "Saeed Al Owairan",
+      "stats": {
+        "trend_value": "496K",
+        "average_buy_now": "511K",
+        "highest": "545K",
+        "lowest": "468K",
+        "avg_below_trend": "482K",
+        "avg_above_trend": "511K",
+        "profit_margin": "5K",
+        "profit_margin_pct": 0.94,
+        "trend_pct": -4.81
+      }
+    },
+    {
+      "player": "Antonio Di Natale",
+      "stats": {
+        "trend_value": "2M",
+        "average_buy_now": "2M",
+        "highest": "2M",
+        "lowest": "1M",
+        "avg_below_trend": "1M",
+        "avg_above_trend": "2M",
+        "profit_margin": "-563",
+        "profit_margin_pct": -0.04,
+        "trend_pct": 0.0
+      }
+    },
+    {
+      "player": "Javier Mascherano",
+      "stats": {
+        "trend_value": "205K",
+        "average_buy_now": "211K",
+        "highest": "226K",
+        "lowest": "177K",
+        "avg_below_trend": "197K",
+        "avg_above_trend": "211K",
+        "profit_margin": "4K",
+        "profit_margin_pct": 1.96,
+        "trend_pct": 0.0
+      }
+    },
+    {
+      "player": "Marek Ham\u0161\u00edk",
+      "stats": {
+        "trend_value": "770K",
+        "average_buy_now": "786K",
+        "highest": "800K",
+        "lowest": "720K",
+        "avg_below_trend": "751K",
+        "avg_above_trend": "786K",
+        "profit_margin": "-1925",
+        "profit_margin_pct": -0.24,
+        "trend_pct": -2.14
+      }
+    }
+  ],
+  "Team Of The Week 6": [
+    {
+      "player": "Clara Mateo",
+      "stats": {
+        "trend_value": "19K",
+        "average_buy_now": "19K",
+        "highest": "20K",
+        "lowest": "10K",
+        "avg_below_trend": "18K",
+        "avg_above_trend": "19K",
+        "profit_margin": "114",
+        "profit_margin_pct": 0.6,
+        "trend_pct": 4.11
+      }
+    },
+    {
+      "player": "Jean-Philippe Mateta",
+      "stats": {
+        "trend_value": "12K",
+        "average_buy_now": "12K",
+        "highest": "12K",
+        "lowest": "11K",
+        "avg_below_trend": "12K",
+        "avg_above_trend": "12K",
+        "profit_margin": "-203",
+        "profit_margin_pct": -1.66,
+        "trend_pct": 4.35
+      }
+    },
+    {
+      "player": "Harry Maguire",
+      "stats": {
+        "trend_value": "12K",
+        "average_buy_now": "12K",
+        "highest": "12K",
+        "lowest": "11K",
+        "avg_below_trend": "11K",
+        "avg_above_trend": "12K",
+        "profit_margin": "142",
+        "profit_margin_pct": 1.2,
+        "trend_pct": -2.08
+      }
+    },
+    {
+      "player": "Danilho Doekhi",
+      "stats": {
+        "trend_value": "12K",
+        "average_buy_now": "12K",
+        "highest": "13K",
+        "lowest": "11K",
+        "avg_below_trend": "12K",
+        "avg_above_trend": "12K",
+        "profit_margin": "-40",
+        "profit_margin_pct": -0.33,
+        "trend_pct": 6.67
+      }
+    },
+    {
+      "player": "Angelo Stiller",
+      "stats": {
+        "trend_value": "14K",
+        "average_buy_now": "14K",
+        "highest": "14K",
+        "lowest": "11K",
+        "avg_below_trend": "13K",
+        "avg_above_trend": "14K",
+        "profit_margin": "-348",
+        "profit_margin_pct": -2.47,
+        "trend_pct": -1.82
+      }
+    },
+    {
+      "player": "Tabitha Chawinga",
+      "stats": {
+        "trend_value": "19K",
+        "average_buy_now": "19K",
+        "highest": "21K",
+        "lowest": "14K",
+        "avg_below_trend": "18K",
+        "avg_above_trend": "19K",
+        "profit_margin": "344",
+        "profit_margin_pct": 1.83,
+        "trend_pct": 1.3
+      }
+    },
+    {
+      "player": "Mario Gila Fuentes",
+      "stats": {
+        "trend_value": "12K",
+        "average_buy_now": "12K",
+        "highest": "13K",
+        "lowest": "11K",
+        "avg_below_trend": "12K",
+        "avg_above_trend": "12K",
+        "profit_margin": "178",
+        "profit_margin_pct": 1.48,
+        "trend_pct": -2.04
+      }
+    },
+    {
+      "player": "Bum Keun Song",
+      "stats": {
+        "trend_value": "11K",
+        "average_buy_now": "11K",
+        "highest": "11K",
+        "lowest": "10K",
+        "avg_below_trend": "11K",
+        "avg_above_trend": "11K",
+        "profit_margin": "-89",
+        "profit_margin_pct": -0.8,
+        "trend_pct": 0.0
+      }
+    },
+    {
+      "player": "Mason Greenwood",
+      "stats": {
+        "trend_value": "14K",
+        "average_buy_now": "14K",
+        "highest": "15K",
+        "lowest": "11K",
+        "avg_below_trend": "14K",
+        "avg_above_trend": "14K",
+        "profit_margin": "198",
+        "profit_margin_pct": 1.39,
+        "trend_pct": 3.57
+      }
+    },
+    {
+      "player": "Nicol\u00e1s Paz Mart\u00ednez",
+      "stats": {
+        "trend_value": "11K",
+        "average_buy_now": "11K",
+        "highest": "11K",
+        "lowest": "10K",
+        "avg_below_trend": "11K",
+        "avg_above_trend": "11K",
+        "profit_margin": "-79",
+        "profit_margin_pct": -0.72,
+        "trend_pct": 0.0
+      }
+    },
+    {
+      "player": "Leroy San\u00e9",
+      "stats": {
+        "trend_value": "12K",
+        "average_buy_now": "12K",
+        "highest": "13K",
+        "lowest": "10K",
+        "avg_below_trend": "12K",
+        "avg_above_trend": "12K",
+        "profit_margin": "-54",
+        "profit_margin_pct": -0.45,
+        "trend_pct": 2.08
+      }
+    }
+  ],
+  "Ratings Reload 2": [
+    {
+      "player": "Lauren James",
+      "stats": {
+        "trend_value": "532K",
+        "average_buy_now": "549K",
+        "highest": "560K",
+        "lowest": "500K",
+        "avg_below_trend": "513K",
+        "avg_above_trend": "549K",
+        "profit_margin": "11K",
+        "profit_margin_pct": 2.01,
+        "trend_pct": 8.0
+      }
+    },
+    {
+      "player": "Dominik Szoboszlai",
+      "stats": {
+        "trend_value": "133K",
+        "average_buy_now": "137K",
+        "highest": "147K",
+        "lowest": "102K",
+        "avg_below_trend": "127K",
+        "avg_above_trend": "137K",
+        "profit_margin": "4K",
+        "profit_margin_pct": 2.75,
+        "trend_pct": 3.7
+      }
+    },
+    {
+      "player": "Khadija Shaw",
+      "stats": {
+        "trend_value": "145K",
+        "average_buy_now": "278K",
+        "highest": "396K",
+        "lowest": "100K",
+        "avg_below_trend": "124K",
+        "avg_above_trend": "278K",
+        "profit_margin": "148K",
+        "profit_margin_pct": 114.4,
+        "trend_pct": 8.33
+      }
+    },
+    {
+      "player": "D\u00e9sir\u00e9 Dou\u00e9",
+      "stats": {
+        "trend_value": "459K",
+        "average_buy_now": "468K",
+        "highest": "480K",
+        "lowest": "436K",
+        "avg_below_trend": "449K",
+        "avg_above_trend": "468K",
+        "profit_margin": "-3288",
+        "profit_margin_pct": -0.7,
+        "trend_pct": 6.82
+      }
+    },
+    {
+      "player": "Zion Suzuki",
+      "stats": {
+        "trend_value": "13K",
+        "average_buy_now": "14K",
+        "highest": "15K",
+        "lowest": "10K",
+        "avg_below_trend": "12K",
+        "avg_above_trend": "14K",
+        "profit_margin": "1K",
+        "profit_margin_pct": 9.64,
+        "trend_pct": 10.42
+      }
+    },
+    {
+      "player": "Leny Yoro",
+      "stats": {
+        "trend_value": "91K",
+        "average_buy_now": "93K",
+        "highest": "97K",
+        "lowest": "84K",
+        "avg_below_trend": "89K",
+        "avg_above_trend": "93K",
+        "profit_margin": "-827",
+        "profit_margin_pct": -0.88,
+        "trend_pct": -2.69
+      }
+    },
+    {
+      "player": "Lionel Messi",
+      "stats": {
+        "trend_value": "1M",
+        "average_buy_now": "1M",
+        "highest": "1M",
+        "lowest": "1M",
+        "avg_below_trend": "1M",
+        "avg_above_trend": "1M",
+        "profit_margin": "-28353",
+        "profit_margin_pct": -1.99,
+        "trend_pct": -4.2
+      }
+    },
+    {
+      "player": "Kenan Y\u0131ld\u0131z",
+      "stats": {
+        "trend_value": "303K",
+        "average_buy_now": "309K",
+        "highest": "325K",
+        "lowest": "285K",
+        "avg_below_trend": "296K",
+        "avg_above_trend": "309K",
+        "profit_margin": "-2091",
+        "profit_margin_pct": -0.67,
+        "trend_pct": -1.97
+      }
+    },
+    {
+      "player": "Alejandro Grimaldo Garc\u00eda",
+      "stats": {
+        "trend_value": "48K",
+        "average_buy_now": "50K",
+        "highest": "56K",
+        "lowest": "44K",
+        "avg_below_trend": "47K",
+        "avg_above_trend": "50K",
+        "profit_margin": "2K",
+        "profit_margin_pct": 3.14,
+        "trend_pct": -6.53
+      }
+    },
+    {
+      "player": "Kevin De Bruyne",
+      "stats": {
+        "trend_value": "219K",
+        "average_buy_now": "226K",
+        "highest": "244K",
+        "lowest": "200K",
+        "avg_below_trend": "213K",
+        "avg_above_trend": "226K",
+        "profit_margin": "3K",
+        "profit_margin_pct": 1.38,
+        "trend_pct": -0.5
+      }
+    },
+    {
+      "player": "Denzel Dumfries",
+      "stats": {
+        "trend_value": "68K",
+        "average_buy_now": "70K",
+        "highest": "76K",
+        "lowest": "60K",
+        "avg_below_trend": "67K",
+        "avg_above_trend": "70K",
+        "profit_margin": "484",
+        "profit_margin_pct": 0.69,
+        "trend_pct": 6.87
+      }
+    }
+  ],
+  "Team Of The Week 5": [
+    {
+      "player": "Pierre-Emerick Aubameyang",
+      "stats": {
+        "trend_value": "20K",
+        "average_buy_now": "20K",
+        "highest": "22K",
+        "lowest": "15K",
+        "avg_below_trend": "19K",
+        "avg_above_trend": "20K",
+        "profit_margin": "500",
+        "profit_margin_pct": 2.51,
+        "trend_pct": 2.56
+      }
+    },
+    {
+      "player": "Keira Walsh",
+      "stats": {
+        "trend_value": "17K",
+        "average_buy_now": "17K",
+        "highest": "17K",
+        "lowest": "15K",
+        "avg_below_trend": "16K",
+        "avg_above_trend": "17K",
+        "profit_margin": "-237",
+        "profit_margin_pct": -1.39,
+        "trend_pct": -4.48
+      }
+    },
+    {
+      "player": "Jess Park",
+      "stats": {
+        "trend_value": "12K",
+        "average_buy_now": "12K",
+        "highest": "12K",
+        "lowest": "11K",
+        "avg_below_trend": "12K",
+        "avg_above_trend": "12K",
+        "profit_margin": "-206",
+        "profit_margin_pct": -1.69,
+        "trend_pct": 0.0
+      }
+    },
+    {
+      "player": "Cody Gakpo",
+      "stats": {
+        "trend_value": "23K",
+        "average_buy_now": "24K",
+        "highest": "26K",
+        "lowest": "11K",
+        "avg_below_trend": "22K",
+        "avg_above_trend": "24K",
+        "profit_margin": "1K",
+        "profit_margin_pct": 4.79,
+        "trend_pct": 4.35
+      }
+    },
+    {
+      "player": "R\u00faben Diogo da Silva Neves",
+      "stats": {
+        "trend_value": "17K",
+        "average_buy_now": "17K",
+        "highest": "17K",
+        "lowest": "14K",
+        "avg_below_trend": "16K",
+        "avg_above_trend": "17K",
+        "profit_margin": "-171",
+        "profit_margin_pct": -1.01,
+        "trend_pct": -2.94
+      }
+    },
+    {
+      "player": "Rodrygo Silva de Goes",
+      "stats": {
+        "trend_value": "93K",
+        "average_buy_now": "96K",
+        "highest": "113K",
+        "lowest": "79K",
+        "avg_below_trend": "90K",
+        "avg_above_trend": "96K",
+        "profit_margin": "2K",
+        "profit_margin_pct": 1.64,
+        "trend_pct": -0.53
+      }
+    },
+    {
+      "player": "Mohamed Salah",
+      "stats": {
+        "trend_value": "545K",
+        "average_buy_now": "571K",
+        "highest": "630K",
+        "lowest": "500K",
+        "avg_below_trend": "522K",
+        "avg_above_trend": "571K",
+        "profit_margin": "22K",
+        "profit_margin_pct": 4.07,
+        "trend_pct": 3.27
+      }
+    },
+    {
+      "player": "Klara B\u00fchl",
+      "stats": {
+        "trend_value": "23K",
+        "average_buy_now": "23K",
+        "highest": "24K",
+        "lowest": "20K",
+        "avg_below_trend": "22K",
+        "avg_above_trend": "23K",
+        "profit_margin": "168",
+        "profit_margin_pct": 0.73,
+        "trend_pct": 5.81
+      }
+    },
+    {
+      "player": "Caroline Weir",
+      "stats": {
+        "trend_value": "17K",
+        "average_buy_now": "17K",
+        "highest": "17K",
+        "lowest": "15K",
+        "avg_below_trend": "16K",
+        "avg_above_trend": "17K",
+        "profit_margin": "-86",
+        "profit_margin_pct": -0.51,
+        "trend_pct": 0.0
+      }
+    },
+    {
+      "player": "Riyad Mahrez",
+      "stats": {
+        "trend_value": "14K",
+        "average_buy_now": "14K",
+        "highest": "14K",
+        "lowest": "12K",
+        "avg_below_trend": "13K",
+        "avg_above_trend": "14K",
+        "profit_margin": "-235",
+        "profit_margin_pct": -1.68,
+        "trend_pct": -3.64
+      }
+    },
+    {
+      "player": "Thomas Strakosha",
+      "stats": {
+        "trend_value": "10K",
+        "average_buy_now": "11K",
+        "highest": "11K",
+        "lowest": "10K",
+        "avg_below_trend": "10K",
+        "avg_above_trend": "11K",
+        "profit_margin": "42",
+        "profit_margin_pct": 0.41,
+        "trend_pct": -7.91
+      }
+    }
+  ],
+  "Ratings Reload": [
+    {
+      "player": "Juli\u00e1n Alvarez",
+      "stats": {
+        "trend_value": "659K",
+        "average_buy_now": "670K",
+        "highest": "682K",
+        "lowest": "622K",
+        "avg_below_trend": "645K",
+        "avg_above_trend": "670K",
+        "profit_margin": "-7066",
+        "profit_margin_pct": -1.04,
+        "trend_pct": -3.52
+      }
+    },
+    {
+      "player": "Eberechi Eze",
+      "stats": {
+        "trend_value": "190K",
+        "average_buy_now": "195K",
+        "highest": "200K",
+        "lowest": "174K",
+        "avg_below_trend": "186K",
+        "avg_above_trend": "195K",
+        "profit_margin": "117",
+        "profit_margin_pct": 0.06,
+        "trend_pct": 1.03
+      }
+    },
+    {
+      "player": "Hugo Ekitik\u00e9",
+      "stats": {
+        "trend_value": "193K",
+        "average_buy_now": "198K",
+        "highest": "205K",
+        "lowest": "174K",
+        "avg_below_trend": "187K",
+        "avg_above_trend": "198K",
+        "profit_margin": "1K",
+        "profit_margin_pct": 0.62,
+        "trend_pct": -0.5
+      }
+    },
+    {
+      "player": "Heung Min Son",
+      "stats": {
+        "trend_value": "433K",
+        "average_buy_now": "443K",
+        "highest": "462K",
+        "lowest": "410K",
+        "avg_below_trend": "427K",
+        "avg_above_trend": "443K",
+        "profit_margin": "-5253",
+        "profit_margin_pct": -1.17,
+        "trend_pct": -5.84
+      }
+    },
+    {
+      "player": "Scott McTominay",
+      "stats": {
+        "trend_value": "78K",
+        "average_buy_now": "92K",
+        "highest": "267K",
+        "lowest": "65K",
+        "avg_below_trend": "74K",
+        "avg_above_trend": "92K",
+        "profit_margin": "15K",
+        "profit_margin_pct": 19.09,
+        "trend_pct": -6.0
+      }
+    },
+    {
+      "player": "Michael Olise",
+      "stats": {
+        "trend_value": "226K",
+        "average_buy_now": "238K",
+        "highest": "340K",
+        "lowest": "197K",
+        "avg_below_trend": "219K",
+        "avg_above_trend": "238K",
+        "profit_margin": "8K",
+        "profit_margin_pct": 3.54,
+        "trend_pct": 0.0
+      }
+    },
+    {
+      "player": "Trinity Rodman",
+      "stats": {
+        "trend_value": "583K",
+        "average_buy_now": "602K",
+        "highest": "610K",
+        "lowest": "550K",
+        "avg_below_trend": "562K",
+        "avg_above_trend": "602K",
+        "profit_margin": "11K",
+        "profit_margin_pct": 1.92,
+        "trend_pct": -0.18
+      }
+    },
+    {
+      "player": "Marc Cucurella Saseta",
+      "stats": {
+        "trend_value": "60K",
+        "average_buy_now": "63K",
+        "highest": "76K",
+        "lowest": "54K",
+        "avg_below_trend": "58K",
+        "avg_above_trend": "63K",
+        "profit_margin": "1K",
+        "profit_margin_pct": 1.95,
+        "trend_pct": -12.98
+      }
+    },
+    {
+      "player": "Cristian Romero",
+      "stats": {
+        "trend_value": "37K",
+        "average_buy_now": "39K",
+        "highest": "41K",
+        "lowest": "32K",
+        "avg_below_trend": "35K",
+        "avg_above_trend": "39K",
+        "profit_margin": "2K",
+        "profit_margin_pct": 5.68,
+        "trend_pct": 5.76
+      }
+    },
+    {
+      "player": "Lucy Bronze",
+      "stats": {
+        "trend_value": "94K",
+        "average_buy_now": "98K",
+        "highest": "110K",
+        "lowest": "83K",
+        "avg_below_trend": "91K",
+        "avg_above_trend": "98K",
+        "profit_margin": "2K",
+        "profit_margin_pct": 1.91,
+        "trend_pct": 3.89
+      }
+    },
+    {
+      "player": "Salma Celeste Paralluelo Ayingono",
+      "stats": {
+        "trend_value": "531K",
+        "average_buy_now": "543K",
+        "highest": "602K",
+        "lowest": "495K",
+        "avg_below_trend": "516K",
+        "avg_above_trend": "543K",
+        "profit_margin": "798",
+        "profit_margin_pct": 0.15,
+        "trend_pct": 0.19
+      }
+    }
+  ],
+  "Team Of The Week 4": [
+    {
+      "player": "Rosemonde Kouassi",
+      "stats": {
+        "trend_value": "11K",
+        "average_buy_now": "12K",
+        "highest": "14K",
+        "lowest": "10K",
+        "avg_below_trend": "11K",
+        "avg_above_trend": "12K",
+        "profit_margin": "279",
+        "profit_margin_pct": 2.43,
+        "trend_pct": -2.13
+      }
+    },
+    {
+      "player": "Bruno Guimar\u00e3es Moura",
+      "stats": {
+        "trend_value": "23K",
+        "average_buy_now": "24K",
+        "highest": "26K",
+        "lowest": "20K",
+        "avg_below_trend": "22K",
+        "avg_above_trend": "24K",
+        "profit_margin": "479",
+        "profit_margin_pct": 2.04,
+        "trend_pct": 1.05
+      }
+    },
+    {
+      "player": "Joey Veerman",
+      "stats": {
+        "trend_value": "10K",
+        "average_buy_now": "11K",
+        "highest": "11K",
+        "lowest": "10K",
+        "avg_below_trend": "10K",
+        "avg_above_trend": "11K",
+        "profit_margin": "-204",
+        "profit_margin_pct": -1.9,
+        "trend_pct": 4.76
+      }
+    },
+    {
+      "player": "Vin\u00edcius Jos\u00e9 de Oliveira J\u00fanior",
+      "stats": {
+        "trend_value": "1M",
+        "average_buy_now": "1M",
+        "highest": "1M",
+        "lowest": "1M",
+        "avg_below_trend": "1M",
+        "avg_above_trend": "1M",
+        "profit_margin": "10K",
+        "profit_margin_pct": 0.9,
+        "trend_pct": -4.19
+      }
+    },
+    {
+      "player": "Mois\u00e9s Caicedo",
+      "stats": {
+        "trend_value": "58K",
+        "average_buy_now": "60K",
+        "highest": "68K",
+        "lowest": "41K",
+        "avg_below_trend": "55K",
+        "avg_above_trend": "60K",
+        "profit_margin": "2K",
+        "profit_margin_pct": 3.11,
+        "trend_pct": 0.0
+      }
+    },
+    {
+      "player": "Luis D\u00edaz",
+      "stats": {
+        "trend_value": "65K",
+        "average_buy_now": "68K",
+        "highest": "80K",
+        "lowest": "50K",
+        "avg_below_trend": "62K",
+        "avg_above_trend": "68K",
+        "profit_margin": "3K",
+        "profit_margin_pct": 4.6,
+        "trend_pct": 13.64
+      }
+    },
+    {
+      "player": "Vivien Endemann",
+      "stats": {
+        "trend_value": "11K",
+        "average_buy_now": "11K",
+        "highest": "12K",
+        "lowest": "10K",
+        "avg_below_trend": "11K",
+        "avg_above_trend": "11K",
+        "profit_margin": "39",
+        "profit_margin_pct": 0.36,
+        "trend_pct": -4.44
+      }
+    },
+    {
+      "player": "Jordi Alba Ramos",
+      "stats": {
+        "trend_value": "12K",
+        "average_buy_now": "12K",
+        "highest": "14K",
+        "lowest": "10K",
+        "avg_below_trend": "12K",
+        "avg_above_trend": "12K",
+        "profit_margin": "152",
+        "profit_margin_pct": 1.24,
+        "trend_pct": 4.35
+      }
+    },
+    {
+      "player": "Lynn Wilms",
+      "stats": {
+        "trend_value": "11K",
+        "average_buy_now": "12K",
+        "highest": "12K",
+        "lowest": "10K",
+        "avg_below_trend": "11K",
+        "avg_above_trend": "12K",
+        "profit_margin": "48",
+        "profit_margin_pct": 0.42,
+        "trend_pct": 0.0
+      }
+    },
+    {
+      "player": "Vicki Becho",
+      "stats": {
+        "trend_value": "11K",
+        "average_buy_now": "11K",
+        "highest": "12K",
+        "lowest": "10K",
+        "avg_below_trend": "11K",
+        "avg_above_trend": "11K",
+        "profit_margin": "47",
+        "profit_margin_pct": 0.42,
+        "trend_pct": 2.44
+      }
+    },
+    {
+      "player": "Alexander Schlager",
+      "stats": {
+        "trend_value": "10K",
+        "average_buy_now": "11K",
+        "highest": "11K",
+        "lowest": "10K",
+        "avg_below_trend": "10K",
+        "avg_above_trend": "11K",
+        "profit_margin": "129",
+        "profit_margin_pct": 1.23,
+        "trend_pct": 0.0
+      }
+    }
+  ],
+  "Cornerstones 2": [
+    {
+      "player": "Cristiano Ronaldo dos Santos Aveiro",
+      "stats": {
+        "trend_value": "1M",
+        "average_buy_now": "1M",
+        "highest": "1M",
+        "lowest": "1M",
+        "avg_below_trend": "1M",
+        "avg_above_trend": "1M",
+        "profit_margin": "22K",
+        "profit_margin_pct": 2.01,
+        "trend_pct": -7.14
+      }
+    },
+    {
+      "player": "Jo\u00e3o Pedro Gon\u00e7alves Neves",
+      "stats": {
+        "trend_value": "142K",
+        "average_buy_now": "149K",
+        "highest": "173K",
+        "lowest": "121K",
+        "avg_below_trend": "137K",
+        "avg_above_trend": "149K",
+        "profit_margin": "5K",
+        "profit_margin_pct": 3.64,
+        "trend_pct": -13.51
+      }
+    },
+    {
+      "player": "Florian Wirtz",
+      "stats": {
+        "trend_value": "782K",
+        "average_buy_now": "809K",
+        "highest": "825K",
+        "lowest": "700K",
+        "avg_below_trend": "746K",
+        "avg_above_trend": "809K",
+        "profit_margin": "26K",
+        "profit_margin_pct": 3.27,
+        "trend_pct": 2.5
+      }
+    },
+    {
+      "player": "Claudia Pina Medina",
+      "stats": {
+        "trend_value": "1M",
+        "average_buy_now": "1M",
+        "highest": "1M",
+        "lowest": "978K",
+        "avg_below_trend": "1M",
+        "avg_above_trend": "1M",
+        "profit_margin": "11K",
+        "profit_margin_pct": 1.06,
+        "trend_pct": 4.17
+      }
+    },
+    {
+      "player": "Kim Little",
+      "stats": {
+        "trend_value": "36K",
+        "average_buy_now": "38K",
+        "highest": "44K",
+        "lowest": "20K",
+        "avg_below_trend": "34K",
+        "avg_above_trend": "38K",
+        "profit_margin": "3K",
+        "profit_margin_pct": 7.73,
+        "trend_pct": -5.88
+      }
+    },
+    {
+      "player": "Kh\u00e9phren Thuram",
+      "stats": {
+        "trend_value": "99K",
+        "average_buy_now": "102K",
+        "highest": "110K",
+        "lowest": "90K",
+        "avg_below_trend": "95K",
+        "avg_above_trend": "102K",
+        "profit_margin": "2K",
+        "profit_margin_pct": 1.82,
+        "trend_pct": 9.09
+      }
+    },
+    {
+      "player": "Karim Adeyemi",
+      "stats": {
+        "trend_value": "328K",
+        "average_buy_now": "342K",
+        "highest": "368K",
+        "lowest": "295K",
+        "avg_below_trend": "312K",
+        "avg_above_trend": "342K",
+        "profit_margin": "14K",
+        "profit_margin_pct": 4.38,
+        "trend_pct": 1.74
+      }
+    },
+    {
+      "player": "Alejandro Balde Mart\u00ednez",
+      "stats": {
+        "trend_value": "295K",
+        "average_buy_now": "340K",
+        "highest": "400K",
+        "lowest": "250K",
+        "avg_below_trend": "280K",
+        "avg_above_trend": "340K",
+        "profit_margin": "47K",
+        "profit_margin_pct": 15.9,
+        "trend_pct": 29.79
+      }
+    },
+    {
+      "player": "Millie Bright",
+      "stats": {
+        "trend_value": "90K",
+        "average_buy_now": "99K",
+        "highest": "130K",
+        "lowest": "75K",
+        "avg_below_trend": "86K",
+        "avg_above_trend": "99K",
+        "profit_margin": "9K",
+        "profit_margin_pct": 9.86,
+        "trend_pct": 1.11
+      }
+    },
+    {
+      "player": "Trent Alexander-Arnold",
+      "stats": {
+        "trend_value": "203K",
+        "average_buy_now": "212K",
+        "highest": "240K",
+        "lowest": "175K",
+        "avg_below_trend": "191K",
+        "avg_above_trend": "212K",
+        "profit_margin": "11K",
+        "profit_margin_pct": 5.5,
+        "trend_pct": -3.23
+      }
+    },
+    {
+      "player": "Jordan Pickford",
+      "stats": {
+        "trend_value": "17K",
+        "average_buy_now": "18K",
+        "highest": "20K",
+        "lowest": "10K",
+        "avg_below_trend": "16K",
+        "avg_above_trend": "18K",
+        "profit_margin": "970",
+        "profit_margin_pct": 5.83,
+        "trend_pct": -20.0
+      }
+    }
+  ],
+  "Team Of The Week 3": [
+    {
+      "player": "Gift Monday",
+      "stats": {
+        "trend_value": "11K",
+        "average_buy_now": "11K",
+        "highest": "12K",
+        "lowest": "10K",
+        "avg_below_trend": "11K",
+        "avg_above_trend": "11K",
+        "profit_margin": "154",
+        "profit_margin_pct": 1.37,
+        "trend_pct": -8.7
+      }
+    },
+    {
+      "player": "Fiamma Ben\u00edtez Ianuzzi",
+      "stats": {
+        "trend_value": "12K",
+        "average_buy_now": "13K",
+        "highest": "14K",
+        "lowest": "11K",
+        "avg_below_trend": "12K",
+        "avg_above_trend": "13K",
+        "profit_margin": "618",
+        "profit_margin_pct": 5.05,
+        "trend_pct": 13.33
+      }
+    },
+    {
+      "player": "Rafael A. Ferreira Silva",
+      "stats": {
+        "trend_value": "13K",
+        "average_buy_now": "13K",
+        "highest": "14K",
+        "lowest": "11K",
+        "avg_below_trend": "12K",
+        "avg_above_trend": "13K",
+        "profit_margin": "430",
+        "profit_margin_pct": 3.42,
+        "trend_pct": 1.96
+      }
+    },
+    {
+      "player": "Jorge Resurrecci\u00f3n",
+      "stats": {
+        "trend_value": "12K",
+        "average_buy_now": "13K",
+        "highest": "13K",
+        "lowest": "10K",
+        "avg_below_trend": "12K",
+        "avg_above_trend": "13K",
+        "profit_margin": "342",
+        "profit_margin_pct": 2.75,
+        "trend_pct": 1.96
+      }
+    },
+    {
+      "player": "Rose Lavelle",
+      "stats": {
+        "trend_value": "57K",
+        "average_buy_now": "59K",
+        "highest": "70K",
+        "lowest": "50K",
+        "avg_below_trend": "54K",
+        "avg_above_trend": "59K",
+        "profit_margin": "2K",
+        "profit_margin_pct": 4.15,
+        "trend_pct": 0.0
+      }
+    },
+    {
+      "player": "Georgia Stanway",
+      "stats": {
+        "trend_value": "17K",
+        "average_buy_now": "17K",
+        "highest": "19K",
+        "lowest": "10K",
+        "avg_below_trend": "16K",
+        "avg_above_trend": "17K",
+        "profit_margin": "688",
+        "profit_margin_pct": 4.14,
+        "trend_pct": 23.64
+      }
+    },
+    {
+      "player": "Korbin Shrader",
+      "stats": {
+        "trend_value": "12K",
+        "average_buy_now": "12K",
+        "highest": "14K",
+        "lowest": "11K",
+        "avg_below_trend": "11K",
+        "avg_above_trend": "12K",
+        "profit_margin": "343",
+        "profit_margin_pct": 2.86,
+        "trend_pct": 6.82
+      }
+    },
+    {
+      "player": "Konrad Laimer",
+      "stats": {
+        "trend_value": "14K",
+        "average_buy_now": "15K",
+        "highest": "16K",
+        "lowest": "10K",
+        "avg_below_trend": "13K",
+        "avg_above_trend": "15K",
+        "profit_margin": "867",
+        "profit_margin_pct": 6.19,
+        "trend_pct": 9.09
+      }
+    },
+    {
+      "player": "Omar Alderete",
+      "stats": {
+        "trend_value": "11K",
+        "average_buy_now": "11K",
+        "highest": "12K",
+        "lowest": "10K",
+        "avg_below_trend": "10K",
+        "avg_above_trend": "11K",
+        "profit_margin": "330",
+        "profit_margin_pct": 3.05,
+        "trend_pct": 0.0
+      }
+    },
+    {
+      "player": "Alexis Saelemaekers",
+      "stats": {
+        "trend_value": "12K",
+        "average_buy_now": "12K",
+        "highest": "13K",
+        "lowest": "10K",
+        "avg_below_trend": "11K",
+        "avg_above_trend": "12K",
+        "profit_margin": "382",
+        "profit_margin_pct": 3.27,
+        "trend_pct": 0.0
+      }
+    },
+    {
+      "player": "Gonzalo Valle",
+      "stats": {
+        "trend_value": "11K",
+        "average_buy_now": "11K",
+        "highest": "11K",
+        "lowest": "10K",
+        "avg_below_trend": "10K",
+        "avg_above_trend": "11K",
+        "profit_margin": "543",
+        "profit_margin_pct": 5.28,
+        "trend_pct": 2.33
+      }
+    }
+  ],
+  "Cornerstones": [
+    {
+      "player": "Mikel Oyarzabal Ugarte",
+      "stats": {
+        "trend_value": "38K",
+        "average_buy_now": "43K",
+        "highest": "51K",
+        "lowest": "11K",
+        "avg_below_trend": "35K",
+        "avg_above_trend": "43K",
+        "profit_margin": "7K",
+        "profit_margin_pct": 17.91,
+        "trend_pct": -3.12
+      }
+    },
+    {
+      "player": "Cole Palmer",
+      "stats": {
+        "trend_value": "544K",
+        "average_buy_now": "560K",
+        "highest": "589K",
+        "lowest": "510K",
+        "avg_below_trend": "520K",
+        "avg_above_trend": "560K",
+        "profit_margin": "14K",
+        "profit_margin_pct": 2.51,
+        "trend_pct": -5.56
+      }
+    },
+    {
+      "player": "Bruno Miguel Borges Fernandes",
+      "stats": {
+        "trend_value": "511K",
+        "average_buy_now": "561K",
+        "highest": "600K",
+        "lowest": "459K",
+        "avg_below_trend": "461K",
+        "avg_above_trend": "561K",
+        "profit_margin": "77K",
+        "profit_margin_pct": 15.9,
+        "trend_pct": -13.73
+      }
+    },
+    {
+      "player": "Luis D\u00edaz",
+      "stats": {
+        "trend_value": "219K",
+        "average_buy_now": "239K",
+        "highest": "300K",
+        "lowest": "134K",
+        "avg_below_trend": "200K",
+        "avg_above_trend": "239K",
+        "profit_margin": "29K",
+        "profit_margin_pct": 13.73,
+        "trend_pct": -25.0
+      }
+    },
+    {
+      "player": "Federico Valverde",
+      "stats": {
+        "trend_value": "1M",
+        "average_buy_now": "1M",
+        "highest": "1M",
+        "lowest": "1M",
+        "avg_below_trend": "1M",
+        "avg_above_trend": "1M",
+        "profit_margin": "76K",
+        "profit_margin_pct": 6.56,
+        "trend_pct": 8.1
+      }
+    },
+    {
+      "player": "Tijjani Reijnders",
+      "stats": {
+        "trend_value": "634K",
+        "average_buy_now": "658K",
+        "highest": "690K",
+        "lowest": "580K",
+        "avg_below_trend": "610K",
+        "avg_above_trend": "658K",
+        "profit_margin": "18K",
+        "profit_margin_pct": 2.78,
+        "trend_pct": 1.82
+      }
+    },
+    {
+      "player": "Malik Tillman",
+      "stats": {
+        "trend_value": "24K",
+        "average_buy_now": "26K",
+        "highest": "32K",
+        "lowest": "16K",
+        "avg_below_trend": "21K",
+        "avg_above_trend": "26K",
+        "profit_margin": "4K",
+        "profit_margin_pct": 19.41,
+        "trend_pct": 8.33
+      }
+    },
+    {
+      "player": "Nicholas Williams Arthuer",
+      "stats": {
+        "trend_value": "814K",
+        "average_buy_now": "862K",
+        "highest": "969K",
+        "lowest": "752K",
+        "avg_below_trend": "784K",
+        "avg_above_trend": "862K",
+        "profit_margin": "40K",
+        "profit_margin_pct": 4.82,
+        "trend_pct": -12.24
+      }
+    },
+    {
+      "player": "Wendie Renard",
+      "stats": {
+        "trend_value": "104K",
+        "average_buy_now": "114K",
+        "highest": "146K",
+        "lowest": "73K",
+        "avg_below_trend": "95K",
+        "avg_above_trend": "114K",
+        "profit_margin": "15K",
+        "profit_margin_pct": 14.68,
+        "trend_pct": 21.88
+      }
+    },
+    {
+      "player": "Giovanni Di Lorenzo",
+      "stats": {
+        "trend_value": "98K",
+        "average_buy_now": "102K",
+        "highest": "113K",
+        "lowest": "86K",
+        "avg_below_trend": "94K",
+        "avg_above_trend": "102K",
+        "profit_margin": "3K",
+        "profit_margin_pct": 3.45,
+        "trend_pct": 6.25
+      }
+    },
+    {
+      "player": "Brad Guzan",
+      "stats": {
+        "trend_value": "13K",
+        "average_buy_now": "13K",
+        "highest": "15K",
+        "lowest": "10K",
+        "avg_below_trend": "12K",
+        "avg_above_trend": "13K",
+        "profit_margin": "1K",
+        "profit_margin_pct": 8.92,
+        "trend_pct": 13.04
+      }
+    }
+  ],
+  "Team Of The Week 2": [
+    {
+      "player": "Christian Pulisic",
+      "stats": {
+        "trend_value": "167K",
+        "average_buy_now": "173K",
+        "highest": "200K",
+        "lowest": "146K",
+        "avg_below_trend": "160K",
+        "avg_above_trend": "173K",
+        "profit_margin": "5K",
+        "profit_margin_pct": 2.98,
+        "trend_pct": -2.4
+      }
+    },
+    {
+      "player": "D\u00e9bora C. de Oliveira",
+      "stats": {
+        "trend_value": "207K",
+        "average_buy_now": "216K",
+        "highest": "250K",
+        "lowest": "181K",
+        "avg_below_trend": "198K",
+        "avg_above_trend": "216K",
+        "profit_margin": "9K",
+        "profit_margin_pct": 4.15,
+        "trend_pct": 15.98
+      }
+    },
+    {
+      "player": "Jo\u00e3o F\u00e9lix Sequeira",
+      "stats": {
+        "trend_value": "55K",
+        "average_buy_now": "57K",
+        "highest": "63K",
+        "lowest": "15K",
+        "avg_below_trend": "49K",
+        "avg_above_trend": "57K",
+        "profit_margin": "5K",
+        "profit_margin_pct": 10.58,
+        "trend_pct": -6.67
+      }
+    },
+    {
+      "player": "Denis Bouanga",
+      "stats": {
+        "trend_value": "12K",
+        "average_buy_now": "13K",
+        "highest": "14K",
+        "lowest": "10K",
+        "avg_below_trend": "11K",
+        "avg_above_trend": "13K",
+        "profit_margin": "749",
+        "profit_margin_pct": 6.27,
+        "trend_pct": 6.25
+      }
+    },
+    {
+      "player": "Sara D\u00e4britz",
+      "stats": {
+        "trend_value": "23K",
+        "average_buy_now": "24K",
+        "highest": "27K",
+        "lowest": "11K",
+        "avg_below_trend": "21K",
+        "avg_above_trend": "24K",
+        "profit_margin": "2K",
+        "profit_margin_pct": 8.99,
+        "trend_pct": -8.7
+      }
+    },
+    {
+      "player": "Ryan Gravenberch",
+      "stats": {
+        "trend_value": "132K",
+        "average_buy_now": "140K",
+        "highest": "160K",
+        "lowest": "108K",
+        "avg_below_trend": "126K",
+        "avg_above_trend": "140K",
+        "profit_margin": "7K",
+        "profit_margin_pct": 5.26,
+        "trend_pct": -2.26
+      }
+    },
+    {
+      "player": "Lorenzo Pellegrini",
+      "stats": {
+        "trend_value": "12K",
+        "average_buy_now": "13K",
+        "highest": "14K",
+        "lowest": "11K",
+        "avg_below_trend": "11K",
+        "avg_above_trend": "13K",
+        "profit_margin": "1K",
+        "profit_margin_pct": 10.99,
+        "trend_pct": 10.87
+      }
+    },
+    {
+      "player": "David Raum",
+      "stats": {
+        "trend_value": "14K",
+        "average_buy_now": "15K",
+        "highest": "17K",
+        "lowest": "12K",
+        "avg_below_trend": "13K",
+        "avg_above_trend": "15K",
+        "profit_margin": "1K",
+        "profit_margin_pct": 7.69,
+        "trend_pct": -7.14
+      }
+    },
+    {
+      "player": "\u00c9der Gabriel Milit\u00e3o",
+      "stats": {
+        "trend_value": "411K",
+        "average_buy_now": "431K",
+        "highest": "458K",
+        "lowest": "365K",
+        "avg_below_trend": "397K",
+        "avg_above_trend": "431K",
+        "profit_margin": "14K",
+        "profit_margin_pct": 3.36,
+        "trend_pct": 2.84
+      }
+    },
+    {
+      "player": "Anton Stach",
+      "stats": {
+        "trend_value": "13K",
+        "average_buy_now": "14K",
+        "highest": "15K",
+        "lowest": "11K",
+        "avg_below_trend": "12K",
+        "avg_above_trend": "14K",
+        "profit_margin": "864",
+        "profit_margin_pct": 6.69,
+        "trend_pct": -7.14
+      }
+    },
+    {
+      "player": "Ger\u00f3nimo Rulli",
+      "stats": {
+        "trend_value": "24K",
+        "average_buy_now": "26K",
+        "highest": "31K",
+        "lowest": "12K",
+        "avg_below_trend": "23K",
+        "avg_above_trend": "26K",
+        "profit_margin": "2K",
+        "profit_margin_pct": 8.11,
+        "trend_pct": -3.92
+      }
+    }
+  ],
+  "Team Of The Week 1": [
+    {
+      "player": "Erling Haaland",
+      "stats": {
+        "trend_value": "401K",
+        "average_buy_now": "426K",
+        "highest": "450K",
+        "lowest": "311K",
+        "avg_below_trend": "378K",
+        "avg_above_trend": "426K",
+        "profit_margin": "29K",
+        "profit_margin_pct": 7.22,
+        "trend_pct": -2.44
+      }
+    },
+    {
+      "player": "Melvine Malard",
+      "stats": {
+        "trend_value": "16K",
+        "average_buy_now": "17K",
+        "highest": "19K",
+        "lowest": "10K",
+        "avg_below_trend": "14K",
+        "avg_above_trend": "17K",
+        "profit_margin": "2K",
+        "profit_margin_pct": 12.85,
+        "trend_pct": -18.42
+      }
+    },
+    {
+      "player": "Harry Kane",
+      "stats": {
+        "trend_value": "109K",
+        "average_buy_now": "112K",
+        "highest": "124K",
+        "lowest": "95K",
+        "avg_below_trend": "105K",
+        "avg_above_trend": "112K",
+        "profit_margin": "974",
+        "profit_margin_pct": 0.88,
+        "trend_pct": 2.88
+      }
+    },
+    {
+      "player": "Alejandro Grimaldo Garcia",
+      "stats": {
+        "trend_value": "20K",
+        "average_buy_now": "21K",
+        "highest": "24K",
+        "lowest": "16K",
+        "avg_below_trend": "19K",
+        "avg_above_trend": "21K",
+        "profit_margin": "1K",
+        "profit_margin_pct": 5.25,
+        "trend_pct": -19.23
+      }
+    },
+    {
+      "player": "Lena Oberdorf",
+      "stats": {
+        "trend_value": "23K",
+        "average_buy_now": "24K",
+        "highest": "28K",
+        "lowest": "16K",
+        "avg_below_trend": "21K",
+        "avg_above_trend": "24K",
+        "profit_margin": "2K",
+        "profit_margin_pct": 9.48,
+        "trend_pct": 0.0
+      }
+    },
+    {
+      "player": "Luka Modric",
+      "stats": {
+        "trend_value": "20K",
+        "average_buy_now": "21K",
+        "highest": "27K",
+        "lowest": "11K",
+        "avg_below_trend": "18K",
+        "avg_above_trend": "21K",
+        "profit_margin": "2K",
+        "profit_margin_pct": 10.2,
+        "trend_pct": -3.49
+      }
+    },
+    {
+      "player": "Jaden Philogene",
+      "stats": {
+        "trend_value": "17K",
+        "average_buy_now": "18K",
+        "highest": "20K",
+        "lowest": "14K",
+        "avg_below_trend": "15K",
+        "avg_above_trend": "18K",
+        "profit_margin": "2K",
+        "profit_margin_pct": 9.42,
+        "trend_pct": -19.23
+      }
+    },
+    {
+      "player": "Benjamin Pavard",
+      "stats": {
+        "trend_value": "105K",
+        "average_buy_now": "110K",
+        "highest": "120K",
+        "lowest": "31K",
+        "avg_below_trend": "99K",
+        "avg_above_trend": "110K",
+        "profit_margin": "6K",
+        "profit_margin_pct": 5.78,
+        "trend_pct": 9.09
+      }
+    },
+    {
+      "player": "Inigo Martinez Berridi",
+      "stats": {
+        "trend_value": "21K",
+        "average_buy_now": "22K",
+        "highest": "24K",
+        "lowest": "18K",
+        "avg_below_trend": "20K",
+        "avg_above_trend": "22K",
+        "profit_margin": "909",
+        "profit_margin_pct": 4.23,
+        "trend_pct": -5.68
+      }
+    },
+    {
+      "player": "Marcos Llorente Moreno",
+      "stats": {
+        "trend_value": "462K",
+        "average_buy_now": "477K",
+        "highest": "499K",
+        "lowest": "430K",
+        "avg_below_trend": "448K",
+        "avg_above_trend": "477K",
+        "profit_margin": "7K",
+        "profit_margin_pct": 1.42,
+        "trend_pct": -13.83
+      }
+    },
+    {
+      "player": "Andre Nogueira Gomes",
+      "stats": {
+        "trend_value": "11K",
+        "average_buy_now": "11K",
+        "highest": "12K",
+        "lowest": "10K",
+        "avg_below_trend": "10K",
+        "avg_above_trend": "11K",
+        "profit_margin": "413",
+        "profit_margin_pct": 3.85,
+        "trend_pct": 7.14
+      }
+    }
+  ]
+}
